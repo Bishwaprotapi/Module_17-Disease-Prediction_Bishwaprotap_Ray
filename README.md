@@ -63,6 +63,6 @@ curl -X POST http://localhost:8000/predict -H "Content-Type: application/json" \
 4. Deploy. The container listens on Render's `$PORT`.
 5. Open the Render URL (web app at `/`, Swagger at `/docs`).
 
-Live URL: _add after deploying_
+Live URL: https://module-17-disease-prediction.onrender.com (web app at `/`, Swagger at `/docs`)
 
 > Educational demo only, not medical advice.
